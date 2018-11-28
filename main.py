@@ -1,2 +1,9 @@
-print("HEllo world!")
+
+
+
+def main (msg)
+
+    print(msg)
+
+    main ("hello people")
 
